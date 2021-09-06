@@ -2,16 +2,15 @@
 <h1 align="center">🙋‍♂️ Hi, I'm SM Mahadee Hasan</h1>
 <h3 align="center">💻 A passionate Front-end Web Developer</h3>
 
-- 🔭 I work at software company<a href="https://everexpert.com/" target="_blank">EverExpert</a> as a front-end developer.
+- 🔭 I am working  in a software company called<a href="https://everexpert.com/" target="_blank">EverExpert</a> as a front-end developer.
 - :heart:I love to lies websites with dreaming up ideas and making them come true with elegant interfaces.
 - :gem: I take great care in the experience, architecture, and code quality of the things I build.
 
 
-### :computer: Contact me on: 
+### :computer: Contact me : 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehediask/) 
 
-![](https://visitor-badge.glitch.me/badge?page_id=smmahadee.smmahadee)
 
 ### Languages and Tools:
 <p align="left"> 
@@ -22,7 +21,7 @@
  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
  <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   
- <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>
+
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank">
  <a href="https://nextjs.org/" target="_blank"> <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
