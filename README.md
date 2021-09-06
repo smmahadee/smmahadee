@@ -1,23 +1,17 @@
-### Hey folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br>
-
-
-<a href="https://www.linkedin.com/in/mehediask/">
-  <img align="left" alt="Mahadee's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=smmahadee.smmahadee)
-
-<br>
 
 <h1 align="center">🙋‍♂️ Hi, I'm SM Mahadee Hasan</h1>
-<h3 align="center">💻 A passionate self taught Front-end Web Developer from Dhaka, Bangladesh</h3>
+<h3 align="center">💻 A passionate Front-end Web Developer</h3>
 
 - 🔭 I work at software company<a href="https://everexpert.com/" target="_blank">EverExpert</a> as a front-end developer.
 - :heart:I love to lies websites with dreaming up ideas and making them come true with elegant interfaces.
-- :gem: Experienced in Digital Communication (Online Marketing, SEO,Content Management & Journalism), UX/UI Design & Frontend Dev.
-- :octocat: Always open to collaborate with digital content creators.
+- :gem: I take great care in the experience, architecture, and code quality of the things I build.
 
+
+### :computer: Contact me on: 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehediask/) 
+
+![](https://visitor-badge.glitch.me/badge?page_id=smmahadee.smmahadee)
 
 ### Languages and Tools:
 <p align="left"> 
