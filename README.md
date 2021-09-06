@@ -2,7 +2,7 @@
 <br>
 
 
-<a href="www.linkedin.com/in/mehediask">
+<a href="https://www.linkedin.com/in/mehediask/">
   <img align="left" alt="Mahadee's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
