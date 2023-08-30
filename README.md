@@ -1,7 +1,7 @@
 <h1 align="center">🙋‍♂️ Hi, I'm SM Mahadee Hasan</h1>
 <h3 align="center">💻 A passionate Front-end Web Developer</h3>
 
-- 🔭 I am working in a software company called <a href="https://everexpert.com/" target="_blank">EverExpert</a> as a front-end developer.
+- 🔭 I am working in a software company called <a href="https://amharctech.com/" target="_blank">Amharc Tech</a> as a front-end Engineer.
 - :heart:I love to lies websites with dreaming up ideas and making them come true with elegant interfaces.
 - :gem: I take great care in the experience, architecture, and code quality of the things I build.
 
