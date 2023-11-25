@@ -1,4 +1,4 @@
-### 💫 About Me:
+## 💫 About Me:
 🚀 Welcome to my GitHub space! I'm a passionate software engineer at Amharctech with a diverse tech stack that includes JavaScript, C++, React, TailwindCSS, and more. I love creating dynamic and engaging web applications, utilizing tools like React Hook Form, Redux, and Styled Components to craft seamless user experiences.<br><br>In my coding journey, I explore the realms of Next.js, MongoDB, Node.js, and Firebase, building scalable and efficient solutions. Figma is my design playground, where I transform ideas into visually appealing interfaces.<br><br>Check out my GitHub stats below to see the code journey unfold. Feel free to connect with me on LinkedIn to collaborate or discuss tech trends. Remember, code is poetry, and each commit is a verse in the ever-evolving saga of software development.<br><br>Let's code the future together! 💻✨
 
 
