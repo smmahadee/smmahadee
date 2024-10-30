@@ -1,5 +1,17 @@
 ## 💫 About Me:
-🚀 Welcome to my GitHub space! I'm a passionate software engineer at @MobyPayTech with a diverse tech stack that includes JavaScript, C++, React, TailwindCSS, and more. I love creating dynamic and engaging web applications, utilizing tools like React Hook Form, Redux, and Styled Components to craft seamless user experiences.<br><br>In my coding journey, I explore the realms of Next.js, MongoDB, Node.js, and Firebase, building scalable and efficient solutions. Figma is my design playground, where I transform ideas into visually appealing interfaces.<br><br>Check out my GitHub stats below to see the code journey unfold. Feel free to connect with me on LinkedIn to collaborate or discuss tech trends. Remember, code is poetry, and each commit is a verse in the ever-evolving saga of software development.<br><br>Let's code the future together! 💻✨
+👋 Hello! I’m a Front-End Engineer with over 4 years of experience building fast, reliable, and secure web applications. I specialize in creating seamless user experiences with a focus on Next.js, React, TypeScript, and Laravel.
+
+🚀 What I Bring:
+
+✨ Expertise in developing responsive, high-performance applications using Next.js 13 and React, with backend experience in PHP and Laravel.
+
+💻 Advanced skills in TypeScript, alongside component libraries (Material UI, Tailwind CSS, Shadcn UI) to create clean, maintainable code.
+
+📊 Proficient in data management and API handling with React Query, SWR, Redux, and Zustand.
+
+🛠 Strong foundation in JavaScript, Node.js, and MongoDB, with additional full-stack capabilities in PHP and Laravel for robust backend development.
+
+💡 Why Choose Me? I blend technical expertise with a problem-solving mindset, leveraging my background in mathematics to approach software challenges analytically. Passionate about innovation, I keep up with the latest web technologies to deliver outstanding, scalable solutions.
 
 
 ### 🌐 Socials:
