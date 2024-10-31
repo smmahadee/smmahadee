@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hello! I’m a Front-End Engineer with over 4 years of experience building fast, reliable, and secure web applications. I specialize in creating seamless user experiences with a focus on Next.js, React, TypeScript, and Laravel.
+👋 Hello! I’m a Software Engineer with over 4 years of experience building fast, reliable, and secure web applications. I specialize in creating seamless user experiences with a focus on Next.js, React, TypeScript, and Laravel.
 
 🚀 What I Bring:
 
