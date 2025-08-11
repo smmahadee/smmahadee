@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hello! I’m a Software Engineer with over 4 years of experience building fast, reliable, and secure web applications. I specialize in creating seamless user experiences with a focus on Next.js, React, TypeScript, and Laravel.
+👋 Specialize in creating seamless user experiences with a focus on Next.js, React, TypeScript, and Laravel.
 
 🚀 What I Bring:
 
@@ -9,7 +9,7 @@
 
 📊 Proficient in data management and API handling with React Query, SWR, Redux, and Zustand.
 
-🛠 Strong foundation in JavaScript, Node.js, and MongoDB, with additional full-stack capabilities in PHP and Laravel for robust backend development.
+🛠 Strong foundation in JavaScript with additional full-stack capabilities in PHP and Laravel for robust backend development.
 
 💡 Why Choose Me? I blend technical expertise with a problem-solving mindset, leveraging my background in mathematics to approach software challenges analytically. Passionate about innovation, I keep up with the latest web technologies to deliver outstanding, scalable solutions.
 
