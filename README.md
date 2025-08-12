@@ -3,7 +3,7 @@
 
 🚀 What I Bring:
 
-✨ Expertise in developing responsive, high-performance applications using Next.js 13 and React, with backend experience in PHP and Laravel.
+✨ Expertise in developing responsive, high-performance applications using Next.js and React, with backend experience in PHP and Laravel.
 
 💻 Advanced skills in TypeScript, alongside component libraries (Material UI, Tailwind CSS, Shadcn UI) to create clean, maintainable code.
 
